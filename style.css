@@ -194,9 +194,7 @@ h1 {
 }
 
 .social-bar i:hover {
-    /* display: none; */
-    font-size: 50px;
-    color: rgb(69, 231, 123);
+    display: none;
 }
 
 .social-bar .facebook {
